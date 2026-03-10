@@ -2428,7 +2428,7 @@ body {
 
 
   .call-float {
-    bottom: 16px;
+    bottom: 100px;
     right: 16px;
     width: 54px;
     height: 54px;
@@ -2469,9 +2469,9 @@ body {
     display: none !important;
   }
 
-  /* .call-float {
+  .call-float {
     display: none !important;
-  } */
+  }
   
   .app {
     opacity: 1;
