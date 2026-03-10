@@ -1062,7 +1062,7 @@ function App() {
         rel="noopener noreferrer"
         aria-label="Chat on WhatsApp"
       >
-        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
   <path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 
   1 0 011.01-.24c1.11.37 2.31.57 3.58.57a1 
   1 0 011 1V21a1 1 0 01-1 1C10.07 
