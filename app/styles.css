@@ -2425,6 +2425,19 @@ body {
     width: 24px;
     height: 24px;
   }
+
+
+  .call-float {
+    bottom: 16px;
+    right: 16px;
+    width: 54px;
+    height: 54px;
+  }
+  
+  .call-float svg {
+    width: 24px;
+    height: 24px;
+  }
   
   .review-card-slider {
     padding: 24px 16px;
@@ -2455,6 +2468,10 @@ body {
   .whatsapp-float {
     display: none !important;
   }
+
+  /* .call-float {
+    display: none !important;
+  } */
   
   .app {
     opacity: 1;
